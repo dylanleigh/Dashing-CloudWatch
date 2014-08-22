@@ -1,0 +1,1 @@
+This is an adjusted version of [EC2 CloudWatch stats for Dashing](https://gist.github.com/jwalton/6614087) which is not bound to EC2 metrics but a generic widget for cloudwatch graphs. Visualization is done by Rickshawgraph as in the original example.
